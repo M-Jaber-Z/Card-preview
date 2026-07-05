@@ -6,6 +6,11 @@ import tailwindcss from '@tailwindcss/vite'
 export default defineConfig({
   plugins: [react(), tailwindcss()],
   base: '/Card-preview/',
+  build:{
+    outDir: 'dist',
+    assetsDir: 'assets',
+  },
+
   server: {
     port: 3000
   }
