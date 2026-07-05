@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://M-Jaber-Z.github.io/Card-preview",
+  "homepage": "https://M-jaber-Z.github.io/Card-preview",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
